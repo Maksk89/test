@@ -28,6 +28,5 @@ namespace ClassLibrary1
             float quotient = a / b;
             return quotient;
         }
-        
     }
 }
